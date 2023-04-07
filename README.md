@@ -8,3 +8,5 @@ Rede neural Perceptron desenvolvida na matéria de Redes Neurais do meu curso de
 ![Teste](https://user-images.githubusercontent.com/65624371/230664694-7efbcbfb-91c3-4e1e-8f93-17ca4e990223.png)
 
 ![Dados](https://user-images.githubusercontent.com/65624371/230664706-626dc0a8-8243-42ff-97e7-e46ef67090ef.png)
+
+![Resto](https://user-images.githubusercontent.com/65624371/230664803-cc6129b6-a8a5-42e4-b210-90253b428933.png)
